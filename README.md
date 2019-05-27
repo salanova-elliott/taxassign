@@ -1,5 +1,5 @@
 # taxassign
-Assigns taxonomy from BLAST searches and 
+Assigns taxonomy from BLAST searches and more!
 
 ## Input:  
 * BLAST results run through `blast_formatter` with 
